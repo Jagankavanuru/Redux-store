@@ -1,0 +1,20 @@
+{
+  "sellers": [
+    {
+      "id": "e81c",
+      "loginType": "seller",
+      "name": "Seller",
+      "email": "seller@mail.com",
+      "password": "Seller"
+    }
+  ],
+  "users": [
+    {
+      "id": "8123",
+      "loginType": "user",
+      "name": "User",
+      "email": "user@mail.com",
+      "password": "User"
+    }
+  ]
+}
